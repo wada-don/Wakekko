@@ -1,7 +1,4 @@
 import random
-import sys
-
-argv = sys.argv
 
 class CountryModel:
     def __init__(self):
